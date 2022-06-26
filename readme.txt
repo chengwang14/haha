@@ -5,3 +5,4 @@ hello test
 test write line
 hello master
 hhhhhhhh
+hello master
