@@ -6,3 +6,4 @@ test write line
 hello master
 hhhhhhhh
 aaaaa
+git test
